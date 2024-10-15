@@ -24,3 +24,7 @@ const repository_path = '/Users/song/Home/Code/github.com/market_tools/'
 本工具的目的是筛选出波动大的币种，如果N越大，则筛选出的越少，反之，则越多，可以在1-2之间调整  
 
 另：输出结果中会一直包含BTC和ETH的波动幅度
+
+
+6. 输出结果案例
+![alt text](image.png)
